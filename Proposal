@@ -1,0 +1,60 @@
+# Proposal
+ 
+## What will (likely) be the title of your project?
+ 
+Guess The Movie 
+ 
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+ 
+A guessing game that shows the user combinations of emojis and asks for an answer. 
+ 
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+ 
+I am going to assign a movie title to a variable and get an input from the user who will guess the movie after a given combination of emojis. If after the first chance the user guesses wrong, I'll iterate two more times until the user's guess is correct (the user will have three chances to guess it right). With each guess there will be feedback if it's right or wrong. If after the three chances the user still guesses wrong the answer will be given. After five guessing movies the game will end, and the user will win if they get at least three out of the five. In each guess, if it is correct the loop terminates. In that case, there will be a congratulation message.
+ 
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+ 
+TODO, if applicable
+ 
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+ 
+TODO, if applicable
+ 
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+ 
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+ 
+Assign a movie title to a variable
+Integrate combinations of emojis
+Get input from the user
+Iterate until the user's guess is correct (three chances) 
+Give feedback on whether is right or wrong
+Take the user input again for guessing
+If the guess is correct, the loop terminates. In that case, show the congratulations message
+ 
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+ 
+Assign a movie title to a variable
+Integrate combinations of emojis
+Get input from the user
+Iterate until the user's guess is correct (three chances) 
+Give feedback on whether is right or wrong
+Take the user input again for guessing
+If the guess is correct, the loop terminates. In that case, show the congratulations message
+Do five guessing movie titles total 
+ 
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+ 
+Assign a movie title to a variable
+Integrate combinations of emojis
+Get input from the user
+Iterate until the user's guess is correct (three chances) 
+Give feedback on whether is right or wrong
+Take the user input again for guessing
+If the guess is correct, the loop terminates. In that case, show the congratulations message
+Do five guessing movie titles total 
+After five, show a final message letting the user know if they won the game or not (this message will be a gif image/animation)
+ 
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+ 
+I will need to learn how to integrate emojis to the code and also research about adding GIF images and animation to python. I'm also considering making drawings using the turtle graphics liberty instead of using emojis. 
